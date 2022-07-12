@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=stillsteven&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stillsteven&theme=vue)
+
 
 ### Top Languages
 
