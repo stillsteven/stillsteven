@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am a university student.
+- Learning about Python, C++.
+
+### Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=stillsteven&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stillsteven)](https://github.com/anuraghazra/github-readme-stats)
+
+
