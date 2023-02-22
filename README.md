@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I am a university student.
-- Learning about Python, C++.
+- Learning about Python, C++,C , Assembly. 
 
 ### Stats
 
